@@ -1,0 +1,15 @@
+digraph G {
+  compound=true
+  node [ fontsize=10, fontname="FreeSans"];
+  edge [ labelfontsize=9, labelfontname="FreeSans"];
+  subgraph clusterdir_d48e814bd4b181e55d6bddd5986ba7d3 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="DTrackSDK_v2.2.0" fontname="FreeSans", fontsize=10, URL="dir_d48e814bd4b181e55d6bddd5986ba7d3.html"]
+  subgraph clusterdir_23707d243d06e6a47d2ab8b139ce47de {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_23707d243d06e6a47d2ab8b139ce47de.html"];
+    dir_23707d243d06e6a47d2ab8b139ce47de [shape=plaintext label="Compatibility"];
+    dir_af2e7280ec3fd308f4663b8862ed608d [shape=box label="DTrack" color="black" fillcolor="white" style="filled" URL="dir_af2e7280ec3fd308f4663b8862ed608d.html"];
+    dir_c024a41e92bb7e6d32825bf48182656d [shape=box label="DTrack2" color="black" fillcolor="white" style="filled" URL="dir_c024a41e92bb7e6d32825bf48182656d.html"];
+    dir_913b6f94b0a073f0ae5ba8c3a9ffa588 [shape=box label="DTrackLib" color="black" fillcolor="white" style="filled" URL="dir_913b6f94b0a073f0ae5ba8c3a9ffa588.html"];
+  }
+  }
+}
